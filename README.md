@@ -12,11 +12,11 @@ After the analysis of the dataset I then provided a recommendation of what plan 
 #### Tool used: Python| Pandas| Seaborn| Matplotlib| Data Manipluation| Data Visualisation
 
 ## Insights looking to uncover were:
-1. [Who has the most albums released in spotify?](#who-has-the-most-albums-released-in-spotify?)
-2. [Do most albums released equate to most streamed artist?](#do-most-albums-released-equate-to-most-streamed-artist?)
-3. [Is there a correlation between explicit songs and artist popularity?](#is-there-a-correlation-between-explicit-songs-and-artist-popularity?)
-4. [What is the most streamed song on different platforms?](#what-is-the-most-streamed-song-on-different-platforms?)
-5. [Are the top ranked songs one hit wonders/from new artists?](#are-the-top-ranked-songs-one-hit-wonders/from-new-artists?)
+1. [Who has the most albums released in spotify? ](#who-has-the-most-albums-released-in-spotify?)
+2. [Do most albums released equate to most streamed artist? ](#do-most-albums-released-equate-to-most-streamed-artist?)
+3. [Is there a correlation between explicit songs and artist popularity? ](#is-there-a-correlation-between-explicit-songs-and-artist-popularity?)
+4. [What is the most streamed song on different platforms? ](#what-is-the-most-streamed-song-on-different-platforms?)
+5. [Are the top ranked songs one hit wonders/from new artists? ](#are-the-top-ranked-songs-one-hit-wonders/from-new-artists?)
 
 ## Findings 
 
