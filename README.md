@@ -20,7 +20,7 @@ After the analysis of the dataset I then provided a recommendation of what plan 
 
 ## Findings 
 
-### *Who has the most albums released in spotify?* 
+### Who has the most albums released in spotify? 
 
 From a top level perspective we can see that Drake holds the most albums released on Spotify, followed by KAROL G and Peso Pluma. Knowing this, the next step is to determine if these artists are also the highest streamed on the platform to answer the question "Do most albums released equate to most streamed artist?".
 
@@ -29,7 +29,7 @@ From a top level perspective we can see that Drake holds the most albums release
 
 Assumptions carried from this is that Singles, EPs, and Collab Albums are also defined as Albums
 
-### *Is there a correlation between explicit songs and artist popularity?*
+### Is there a correlation between explicit songs and artist popularity?
 
 Alongside figuring out this question, it would also be interesting to note if the level of explicity also correlates to the success of the artist. Using proportion of expliit songs we can then map out the percentage of which an artist is explicit and visualise this below 
 
@@ -39,7 +39,7 @@ From here we can see that while there are artist such as Drake who has a high ex
 
 Assumptions from this is that all Artists operate under the same genre as there is no genre datafield to source out
 
-### *Do most albums released equate to most streamed artist?*
+### Do most albums released equate to most streamed artist?
 
 A cleaner visualisation of Top streamed artist can be seen here displaying the top 3 artist are: The Weeknd, Drake, Taylor Swift
 
@@ -48,7 +48,7 @@ A cleaner visualisation of Top streamed artist can be seen here displaying the t
 
 Comparing this against our most albums released artists, only Drake is one of the top 3 streamed artist with Peso Pluma and KAROL G on the lower end of the top 10 streamed artists. This concludes the thought that most albums released does NOT equate to being a top streamed artist.
 
-### *What is the most streamed song on different platforms?*
+### What is the most streamed song on different platforms?
 
 Initial analysis on this was to work on the most streamed platforms for: Spotify, Soundcloud, Pandora, Tidal. However after observing the amount of nulls on the dataset we saw a large amount of nulls on the different platform streams 
 
@@ -68,7 +68,7 @@ From here we can see that both Apple and Spotify have the same track for number 
 
 
 
-### *Are the top ranked songs one hit wonders/from new artists?*
+### Are the top ranked songs one hit wonders/from new artists?
 
 Looking at the year of 2024, we see within the top 10 track sof all time ranking, 30% being from Artists who have only released less than 6 songs that have charted 
 ![image](https://github.com/user-attachments/assets/1fd31f56-4111-4653-ae81-0002ca103e6b)
