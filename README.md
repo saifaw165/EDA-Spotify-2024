@@ -12,7 +12,7 @@ After the analysis of the dataset I then provided a recommendation of what plan 
 - [Artist Recommendations](#artist-recommendations)
 - [Additional Steps](#additional-steps)
 
-#### Tool used: Python| Pandas| Seaborn| Matplotlib| Data Manipluation| Data Visualisation
+#### Tool used: Python, Pandas, Seaborn, Matplotlib, Data Manipluation, Data Visualisation
 
 ## Insights looking to uncover were:
 1. [Who has the most albums released in spotify?](#who-has-the-most-albums-released-in-spotify)
