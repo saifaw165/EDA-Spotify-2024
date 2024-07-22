@@ -7,20 +7,24 @@ To do this I used a Spotify dataset from [kaggle](https://www.kaggle.com/dataset
 <li>Initial analytics and scoping</li>
 <li>Visualisation of insights
 
-After the analysis of the dataset I then provided a recommendation of what plan of action to do in order for their artist to succeed in popularity and charting.
+After the analysis of the dataset I then provided a recommendation of what plan of action to do in order for their artist to succeed in popularity and charting alongside additional steps both marketing and analytics can do to uncover further insights and measures of success.
+
+- [Artist Recommendations](#artist-recommendations)
+- [Additional Steps](#additional-steps)
 
 #### Tool used: Python| Pandas| Seaborn| Matplotlib| Data Manipluation| Data Visualisation
 
 ## Insights looking to uncover were:
-1. [Who has the most albums released in spotify? ](#who-has-the-most-albums-released-in-spotify?)
-2. [Do most albums released equate to most streamed artist? ](#do-most-albums-released-equate-to-most-streamed-artist?)
-3. [Is there a correlation between explicit songs and artist popularity? ](#is-there-a-correlation-between-explicit-songs-and-artist-popularity?)
-4. [What is the most streamed song on different platforms? ](#what-is-the-most-streamed-song-on-different-platforms?)
-5. [Are the top ranked songs one hit wonders/from new artists? ](#are-the-top-ranked-songs-one-hit-wonders/from-new-artists?)
+1. [Who has the most albums released in spotify?](#who-has-the-most-albums-released-in-spotify)
+2. [Do most albums released equate to most streamed artist](#do-most-albums-released-equate-to-most-streamed-artist)
+3. [Is there a correlation between explicit songs and artist popularity?](#is-there-a-correlation-between-explicit-songs-and-artist-popularity)
+4. [What is the most streamed song on different platforms?](#what-is-the-most-streamed-song-on-different-platforms)
+5. [Are the top ranked songs one hit wonders and new artists?](#are-the-top-ranked-songs-one-hit-wonders-and-new-artists)
 
 ## Findings 
 
-### Who has the most albums released in spotify? 
+### Who has the most albums released in spotify?
+
 
 From a top level perspective we can see that Drake holds the most albums released on Spotify, followed by KAROL G and Peso Pluma. Knowing this, the next step is to determine if these artists are also the highest streamed on the platform to answer the question "Do most albums released equate to most streamed artist?".
 
@@ -68,7 +72,7 @@ From here we can see that both Apple and Spotify have the same track for number 
 
 
 
-### Are the top ranked songs one hit wonders/from new artists?
+### Are the top ranked songs one hit wonders and new artists?
 
 Looking at the year of 2024, we see within the top 10 track sof all time ranking, 30% being from Artists who have only released less than 6 songs that have charted 
 ![image](https://github.com/user-attachments/assets/1fd31f56-4111-4653-ae81-0002ca103e6b)
